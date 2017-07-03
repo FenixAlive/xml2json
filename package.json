@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/FenixAlive/xml2json#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
+    "express-session": "^1.15.3",
     "jade": "^1.11.0",
+    "mongoose": "^4.11.1",
     "xml2js": "^0.4.17"
   }
 }
